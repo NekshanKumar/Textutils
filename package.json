@@ -1,5 +1,5 @@
 {
-  "homepage": "https://nekshan007.github.io/TextUtils---React",
+  "homepage": "https://github.com/nekshan007/TextUtils---React.git",
 
   "name": "textutils",
   
@@ -44,8 +44,8 @@
   "deploy": "gh-pages -d build",
     
   "start": "react-scripts start",
+
   
-    
   "build": "react-scripts build",
   
     
